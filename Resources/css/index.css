@@ -1,0 +1,88 @@
+body{
+    font-family: "Helvetica","sans serif";
+    background-color: azure;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    background-image: url("https://content.codecademy.com/courses/freelance-1/unit-2/pattern.jpeg?_gl=1*ymgamj*_gcl_au*MTY5NTY3NjA0NC4xNzM5MzQyODc4*_ga*MTI4Mjc0OTI4NC4xNzM5MzQyODYy*_ga_3LRZM6TM9L*MTczOTYwNjM2OS4xOC4xLjE3Mzk2MDYzOTIuMzcuMC4w");
+}
+
+header h1{
+    font-size: 100px;
+    font-weight: bold;
+    padding: 60px 0;
+    color: khaki;
+    text-align: center;
+}
+
+main{
+
+}
+
+section{
+    text-align: center;
+
+    padding-top: 120px;
+}
+section h2{
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    padding: 20px 0;
+    text-transform: uppercase;
+}
+section img{
+    width: 300px;
+    margin: 40px 0;
+}
+
+section h4{
+    font-size: 24px;
+    font-weight:bolder;
+    /* text-transform: uppercase; */
+    margin-bottom:40px;
+}
+
+section p{
+    max-width: 500px;
+    margin: 10px auto 0;
+    text-align: start;
+    padding: 20px;
+    background-color: rgba(211, 211, 211, 0.238);
+}
+
+section p span{
+    color: blue ;
+    font-weight: bold;
+}
+
+.brush h2{
+    background-color: mediumspringgreen;
+}
+
+.frame h2{
+    background-color: lightcoral;
+}
+
+.paint h2{
+    background-color: skyblue;
+}
+
+
+footer{
+    padding: 40px 0;
+    text-align: center;
+    background-color: bisque;
+    margin-top: 100px;
+}
+
+footer p span{
+    opacity: .6;
+}
