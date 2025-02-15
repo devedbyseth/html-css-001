@@ -15,13 +15,11 @@ header{
 }
 
 header h1{
-    font-size: 100px;
+    font-size: clam(80px,100px,100px);
     font-weight: bold;
     padding: 60px 0;
     color: khaki;
     text-align: center;
-    width:100%;
-    overflow-wrap: anywhere;
 }
 
 main{
