@@ -15,7 +15,7 @@ header{
 }
 
 header h1{
-    font-size: clamp(80px,100px,100px);
+    font-size: clamp(20px,100px,100px);
     font-weight: bold;
     padding: 60px 0;
     color: khaki;
